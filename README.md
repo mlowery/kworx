@@ -1,6 +1,6 @@
 # 🏋️kworx
 
-Multi-threaded kubectl
+Multi-threaded kubectl (kubectl with workers)
 
 ## Features
 
